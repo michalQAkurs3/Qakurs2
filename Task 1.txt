@@ -1,2 +1,4 @@
 zadanie JIRA 100 
 logowanie użytkownikow
+
+nadpisuje kod aplikacji o funkcjonalnosc w zadaniu 1
